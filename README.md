@@ -127,8 +127,6 @@ BATT_CAN/
 ├── lib/                   # Local libraries
 ├── test/                  # Test files
 ├── platformio.ini        # PlatformIO configuration
-├── 功能测试手册.md         # Functional test manual (Chinese)
-└── 项目介绍.md             # Project introduction (Chinese)
 ```
 
 ## Applications
